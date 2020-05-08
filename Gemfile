@@ -60,3 +60,5 @@ gem 'mini_magick'
 gem 'fog-aws'
 
 gem 'execjs'
+
+gem 'bootstrap-sass'
